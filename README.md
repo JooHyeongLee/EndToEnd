@@ -3,5 +3,4 @@ javascript 로 만든 끝말잇기(txt 파일형식의 단어사전 파일을 �
 
 node "파일명"  으로 콘솔이나 터미널에서 실행하는 형태이며 js 파일과 동일한 경로에 dict.txt 파일을 두어야합니다. 
 
-[![Watch the video](https://youtu.be/lW8PNPIopaA/1.jpg)](https://youtu.be/lW8PNPIopaA)
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
